@@ -6,7 +6,7 @@ A script made for Unity. It allows to either auto play the the first scene of yo
 ## Table of content:
 - [Why?](#why)
 - [How to setup and use](#how-to-setup-and-use)
--
+- [Troubleshooting](#troubleshooting)
 
 ## Why?
 When you have scripts that are loaded in your first scene (eg: Main Menu to select a character, saved entry or level) you don't need to switch between the current scene you're working on to the first needed scene to properly load the game, it will always load the first scene of the build list (as long the current scene is also in the build list). Otherwise, the current scene will be played.
